@@ -1,6 +1,6 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hecadothru&show_icons=true&theme=tokyonight" alt="necrophilic" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hecadothru&show_icons=true&theme=tokyonight" alt="hecadoth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecadothru&layout=compact&theme=tokyonight" alt="necrophilic" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecadothru&layout=compact&theme=tokyonight" alt="hecadoth" /></p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
